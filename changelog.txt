@@ -1,0 +1,15 @@
+Altitude
+
+Version 1.0.2 (09/12/2014)
+
+- Added WooCommerce support.
+- WooCommerce template fix.
+- New template with widgets.
+
+Version 1.0.1 (07/25/2014)
+
+- Added social icons to customizer
+
+Version 1.0.0 (07/22/2014)
+
+- Initial setup
